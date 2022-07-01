@@ -10,7 +10,7 @@ else:
         b[i] = a[i-1] + a[i+1]
     b[N-1] = a[N-2] + a[0]
 for j in b:
-    print(j,end=' ')
+    print(j,end=' ')dd
 
 
 
